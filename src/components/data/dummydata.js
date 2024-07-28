@@ -123,7 +123,7 @@ export const portfolio = [
   },
   {
     id: 3,
-    cover: "../images/port/cs.jpg",
+    cover: "public/images/portcs.jpg",
     name: "Coming Soon",
     title: "Coming Soon",
   },
@@ -133,7 +133,7 @@ export const blog = [
   {
     id: 1,
     title: "PIC",
-    date: "Jun 27, 2022",
+    date: "Jun 27, 2019",
     author: "Ankit",
     desc: "Lorem Ipsum has been standard. Lorem Ipsum is simply text of the printing and typesetting industry. Lorem Ipsum has been",
     cover: "./images/blog/b1.png",
@@ -141,7 +141,7 @@ export const blog = [
   {
     id: 2,
     title: "PIC",
-    date: "Jun 27, 2022",
+    date: "Jun 27, 2020",
     author: "Ankit",
     desc: "Lorem Ipsum has been standard. Lorem Ipsum is simply text of the printing and typesetting industry. Lorem Ipsum has been",
     cover: "./images/blog/b2.png",
