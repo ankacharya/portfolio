@@ -135,7 +135,7 @@ export const blog = [
     title: "PIC",
     date: "Jun 27, 2019",
     author: "Ankit",
-    desc: "Lorem Ipsum has been standard. Lorem Ipsum is simply text of the printing and typesetting industry. Lorem Ipsum has been",
+    desc: " hi",
     cover: "./images/blog/b1.png",
   },
   {
