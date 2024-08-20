@@ -19,7 +19,7 @@ export const navlink = [
   },
   {
     url: "/Blog",
-    text: "Hobby",
+    text: "Photography",
   },
   {
     url: "/contact",
@@ -60,7 +60,7 @@ export const services = [
     id: 3,
     icon: <ViewInAr />,
     title: "JavaScript",
-    cover: "../images/port/javascript.jpg",
+    cover: "../images/port/javascript.jpg", 
   },
   {
     id: 4,
