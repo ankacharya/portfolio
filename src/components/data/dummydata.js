@@ -39,7 +39,7 @@ export const about = [
   {
     desc: "I am an aspiring Web Designer and Developer with a master's degree in IT. Driven by a passion for creating visually compelling and highly functional websites, I aim to transform ideas into captivating digital experiences.",
     desc1: "With a focus on detail and user experience, I am dedicated to delivering solutions that meet your needs and exceed your expectations. Explore my portfolio to see how we can collaborate and bring your vision to life.",
-    cover: "./images/man.png",
+    cover: "public/images/man.png",
   },
 ]
 export const services = [
@@ -136,7 +136,7 @@ export const blog = [
     date: "Jun 27, 2019",
     author: "Ankit",
     desc: "HI",
-    cover: "./images/blog/b1.png",
+    cover: "../images/blog/b1.png",
   },
   {
     id: 2,
