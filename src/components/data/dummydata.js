@@ -47,7 +47,7 @@ export const services = [
     id: 1,
     icon: <Settings />,
     title: "React.js",
-    cover: "public/images/man.png",
+    cover: "public/images/port/react.jpg",
     
   },
   {
